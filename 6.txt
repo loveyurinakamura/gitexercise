@@ -5,4 +5,8 @@ the teacher is dead
 emmmmmmm
 ^_^
 -_-
-a & b
+<<<<<<< HEAD
+a and b
+=======
+a and b
+>>>>>>> feature
